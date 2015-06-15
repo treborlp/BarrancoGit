@@ -173,6 +173,14 @@ position:relative;
 		 height: 30%;
 		 display: none;
 	}
+.caminotramite-hidden2{
+		 background: none;
+		 margin: 0 auto;
+		 margin-top: 32%;
+		 width: 90%;
+		 height: 30%;
+		 display: none;
+	}
 .content-botones-sig{
 		 background: none;
 		 margin: 0 auto;
@@ -180,6 +188,16 @@ position:relative;
 		 width: 65%;
 		 height: 20%;
 	}
+.content-botones-sig-2{
+		 background: none;
+		 margin: 0 auto;
+		 margin-top: 2.3%;
+		 width: 65%;
+		 height: 20%;
+		 display: none;
+	}
+
+
 .content-botones-sig .boton-siguiente{
 		 background: none;
 		 position: relative;
@@ -218,6 +236,49 @@ position:relative;
 .content-botones-sig .boton-atras:hover {
 		border-bottom: 1px solid #000;
 	}
+
+
+.content-botones-sig-2 .boton-siguiente{
+		 background: none;
+		 position: relative;
+		 float: right;
+		 top: 24%;
+		 right: 7%;
+		 width: 40%;
+		 height: 54%;
+		  border-radius: 22%;
+		 -webkit-border-radius: 22%;
+		 -moz-border-radius: 22%;
+		 -o-border-radius: 22%;
+		 -webkit-box-shadow:  7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+		 -moz-box-shadow:    7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+		  box-shadow:         7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+	}
+.content-botones-sig-2 .boton-siguiente:hover {
+		border-bottom: 1px solid #000;
+	}
+	
+.content-botones-sig-2 .boton-atras{
+		background: none;
+		position: relative;
+		top: 24%;
+		left: 7%;
+		width: 40%;
+		height: 54%;
+		border-radius: 22%;
+		-webkit-border-radius: 22%;
+		-moz-border-radius: 22%;
+		-o-border-radius: 22%;
+		-webkit-box-shadow:  7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+		-moz-box-shadow:    7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+		 box-shadow:         7px 8px 20px 0px rgba(61, 61, 59, 0.63);
+	}
+	
+.content-botones-sig-2 .boton-atras:hover {
+		border-bottom: 1px solid #000;
+	}
+
+
 	
 .content-cons-des{
 		 background: none;
